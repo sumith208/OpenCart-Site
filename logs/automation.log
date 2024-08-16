@@ -1,0 +1,18 @@
+2024-08-16 17:26:33 INFO  TC001_Account_Registration_Test:24 - Starting Account Registration
+2024-08-16 17:26:37 INFO  TC001_Account_Registration_Test:30 - Entered first name
+2024-08-16 17:26:37 INFO  TC001_Account_Registration_Test:32 - Entered last name
+2024-08-16 17:26:37 INFO  TC001_Account_Registration_Test:34 - Entered email
+2024-08-16 17:26:37 INFO  TC001_Account_Registration_Test:36 - Entered Tel phno
+2024-08-16 17:26:38 INFO  TC001_Account_Registration_Test:39 - Entered pwd
+2024-08-16 17:26:38 INFO  TC001_Account_Registration_Test:41 - Entered confirm pwd
+2024-08-16 17:26:38 INFO  TC001_Account_Registration_Test:43 - checked privcy and policy chckbox
+2024-08-16 17:26:43 INFO  TC001_Account_Registration_Test:49 - Validated Sucessfully
+2024-08-16 17:27:37 INFO  TC001_Account_Registration_Test:24 - Starting Account Registration
+2024-08-16 17:27:39 INFO  TC001_Account_Registration_Test:30 - Entered first name
+2024-08-16 17:27:39 INFO  TC001_Account_Registration_Test:32 - Entered last name
+2024-08-16 17:27:40 INFO  TC001_Account_Registration_Test:34 - Entered email
+2024-08-16 17:27:40 INFO  TC001_Account_Registration_Test:36 - Entered Tel phno
+2024-08-16 17:27:40 INFO  TC001_Account_Registration_Test:39 - Entered pwd
+2024-08-16 17:27:41 INFO  TC001_Account_Registration_Test:41 - Entered confirm pwd
+2024-08-16 17:27:41 INFO  TC001_Account_Registration_Test:43 - checked privcy and policy chckbox
+2024-08-16 17:27:44 INFO  TC001_Account_Registration_Test:49 - Validated Sucessfully
